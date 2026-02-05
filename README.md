@@ -1,9 +1,12 @@
-**🚀 Spark E-Commerce Analytics Data Pipeline**
-**📌 Project Overview
+🚀 Spark E-Commerce Analytics Data Pipeline
+📌 Project Overview
+
+
 **
 This project simulates a real-world data engineering pipeline built using Apache Spark (PySpark) to process large-scale e-commerce data. It demonstrates how raw business data can be transformed into analytics-ready datasets using distributed data processing and data warehouse modeling techniques.
 
 The pipeline follows an industry-style data lake architecture and showcases how data engineers build scalable ETL systems.
+
 
 🏗️ Architecture
 
@@ -58,7 +61,10 @@ spark-ecommerce-data-pipeline/
 ├── main.py           # Pipeline runner
 ├── requirements.txt
 └── README.md
-📊 Data Engineering Concepts Demonstrated
+
+
+
+
 
 Distributed data processing with Spark
 
